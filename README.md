@@ -1,0 +1,2 @@
+# aerospace-test-specimen-reference
+# Sharan Raj **Aerospace Manufacturing &amp; Quality Engineer | AS9100 Rev D | Bengaluru**  Nearly 1 year at Genser Aerospace &amp; IT Pvt. Ltd. supporting Boeing,  Tata Lockheed Martin, and Wipro supply chain programs.  ## Focus Areas - AS9100 Rev D Quality Systems &amp; Internal Audit - Aerospace Test Specimen R&amp;D (ASTM F519, EN 6072)- Material traceability 
