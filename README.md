@@ -24,20 +24,20 @@ scope review, and RFQ preparation activities.
 | AMS-C-26074 | Ni Plating Corrosion | Electroless nickel plating qualification |
 | ASTM F482 | Chemical Immersion | Aircraft maintenance chemical corrosiveness |
 | ASTM C633 | Thermal Spray Bond | Coating adhesion/cohesion strength |
-| ASTM F519 (1a.1 & 1a.2) | Hydrogen Embrittlement | Plating process qualification — high-strength steel |
-| EN 6072 | Constant Amplitude Fatigue | S-N curve generation — aerospace metallic materials |
+| ASTM F519 (1a.1 & 1a.2) | Hydrogen Embrittlement | Plating process qualification |
+| EN 6072 | Constant Amplitude Fatigue | S-N curve generation — aerospace metals |
 
 ---
 
 ## Document Contents
-- Scope & purpose of each standard
+- Scope and purpose of each standard
 - Specimen dimensions and tolerances
 - Material requirements and AMS specification references
 - Test environment conditions
 - Surface finish and machining requirements
 - Pass/fail criteria and evaluation methods
 - Manufacturing and heat treatment sequence notes
-- Quick reference summary table — all 12 standards
+- Quick reference summary table across all 12 standards
 
 ---
 
